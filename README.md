@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @theblakkArabian
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning FronEnd at altSchoolAfrica
-- 💞️ I’m looking to collaborate on anything that will help my journery in Software engineering
-- 📫 Reach me on nazeer27th@gmail.com
-
-<!---
-theblakkArabian/theblakkArabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😊 Pronouns: He
+💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+🌱 I’m currently learning JavaScript, Reactjs.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+📫 You can view my resume and contact me by emailing mailtobolaji@gmail.com.
